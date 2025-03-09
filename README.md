@@ -1,6 +1,8 @@
 # Chat-en-vivo_Socket.io
 Implementación de un chat en tiempo real usando Socket.io y Node.js
 
+repositorio de la practica de Nodejs para la materia de programacion para internet perteneciente a la carrera de ingenieria en computacion CUCEI-UDG
+
 para esta practica se solicito crear un chat en tiempo real con nombre de usuario usando Node.js y socket.io para el envio de mensajes.
 se uso render para levantar el servicio web
 
