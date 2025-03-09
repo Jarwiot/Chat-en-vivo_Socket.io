@@ -7,4 +7,5 @@ se uso render para levantar el servicio web
 link the la pagina https://chat-en-vivo-socket-io.onrender.com/  
 
 resultado final
+
 <img width="436" alt="image" src="https://github.com/user-attachments/assets/e9eccfd6-be6c-4823-8247-73c738f4cea4" />
